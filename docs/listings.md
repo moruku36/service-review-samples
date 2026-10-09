@@ -1,6 +1,6 @@
 # Listing copy — 2026-10-09
 
-Registration status is recorded separately. This file is approved-scope preparation, not evidence that a marketplace listing is live.
+Registration status is recorded in [marketplace-status.md](marketplace-status.md). This file contains preparation copy; the status record notes the final platform-specific scope.
 
 ## Fiverr: existing access-review gig
 
@@ -26,7 +26,7 @@ Upwork title: a focused AWS Azure or Google Cloud configuration review
 
 Basic/Starter name: Three configuration items
 
-Price: USD 75. Delivery: 3 days. One written report clarification (one revision field where required, limited to agreed report scope).
+Price: USD 75. Delivery: 3 days. Fiverr includes one report clarification consultation up to 30 minutes; Upwork includes one written report clarification.
 
 Description:
 
@@ -42,7 +42,7 @@ USD 75; 3 calendar days after all required materials arrive; one written report 
 
 Title: I will review Japanese text and one workflow in your web app
 
-Basic name: Japanese app review
+Basic name: Japanese app review. One agreed desktop workflow; test scenario, summary report and annotated screenshots included. No screen recording or mobile test is promised.
 
 Price: USD 50. Delivery: 3 days. One written clarification (one report-scope revision field if required).
 

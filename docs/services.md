@@ -6,7 +6,7 @@
 | Cloud configuration review | USD 75 | One provider (AWS, Azure or Google Cloud), one environment, up to three agreed configuration items | 3 calendar days after all required materials arrive |
 | Japanese UI and workflow review | USD 50 | Up to five screens and one agreed web workflow; up to 500 English source words across supplied strings | 3 calendar days after all required materials arrive |
 
-Each includes a written report and one report clarification. The existing Fiverr code-review format includes one clarification session of up to 30 minutes. Other packages use one written clarification unless the platform requires a session format.
+Each includes a written report and one report clarification. The Fiverr access and cloud-review formats include one clarification session of up to 30 minutes. Japanese review and the Upwork cloud package use one written clarification. Japanese workflow testing is limited to the agreed desktop demo environment. See [verified publication status](marketplace-status.md).
 
 Implementation, deployment, changes, extra scope and retesting are separately priced and require agreement. Reviews do not guarantee safety, absence or discovery of vulnerabilities, every bug, commercial success, or legal compliance. No production attack tests. No formal compliance certification, legal translation, or ongoing monitoring.
 

@@ -11,6 +11,7 @@ Small, evidence-based review packages by Kentaro Mori: AI-built web app access c
 - [AWS / Azure / Google Cloud review method](docs/cloud-review.md), [offline checker](tools/cloud_review.py), and [fictional findings](samples/cloud-report.md)
 - [Japanese UI and workflow review method](docs/japanese-review.md) and [fictional report](samples/japanese-report.md)
 - [Marketplace listing copy](docs/listings.md)
+- [Verified marketplace publication status](docs/marketplace-status.md)
 - [Validation record](docs/validation.md)
 
 These samples use fictional data. They are not client work, a certification, a penetration test, or evidence that a live environment is secure. The offline checker demonstrates three selected checks on a manually normalized snapshot; it does not connect to a cloud account or parse native provider exports.
