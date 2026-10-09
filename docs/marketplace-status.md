@@ -16,9 +16,11 @@ The cloud service uses **Programming & Tech / Cloud Computing / Cloud Consultati
 
 The Japanese service uses **Programming & Tech / User Testing**. The platform's “1 Revision” means one clarification of the agreed review report, not implementation, extra screens or a second test cycle.
 
-## Upwork — prepared, submission pending
+## Upwork — submitted, approved and visible
 
-Cloud configuration review: USD 75, three-day delivery, one written report clarification, maximum one simultaneous project. Overview, pricing, cover image, required evidence and description were saved. Submission is waiting for the account owner's action-time confirmation of the Upwork Terms of Service, User Agreement, Privacy Policy and public search visibility notice. This is not yet evidence of review submission or approval.
+Cloud configuration review: USD 75, three-day delivery, one written report clarification, maximum one simultaneous project. The account owner confirmed submission after the terms/visibility confirmation request. The project was sent for review on 2026-10-09. Upwork then displayed it in **Approved (3)** with its **Project visibility** switch on; **Under Review (0)** and **Drafts (0)** were also shown. This verifies approval and enabled visibility at the time of registration, not sales or search ranking.
+
+Title: “You will get a focused AWS Azure or Google Cloud configuration review”. Project ID: `2108358752636322962`.
 
 ## Shared limits
 
